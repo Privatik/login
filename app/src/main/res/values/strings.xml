@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login">login</string>
+    <string name="passwork">passwork</string>
+    <string name="enter">Sing up</string>
+    <string name="sungup">Sung up</string>
+    <string name="logged_in">You are logged in</string>
+    <string name="back">Back</string>
+</resources>
